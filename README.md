@@ -111,7 +111,7 @@ apt update
 apt upgrade 
 pkg install git
 git clone https://www.github.com/kayhgng/fragment.git
-cd fragment.git
+cd fragment
 apt install python
 python fragmentkayh.py
 ```
