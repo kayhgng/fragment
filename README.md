@@ -1,4 +1,8 @@
 # fragment + Free Vless
+## لینک دونیت ارز دیجیتال TON:
+
+UQBNCEBZZEdUkchBb3wGYzkZWyclSdmLPE_yQw1XWCVjGeS5
+
 بر اساس پروژه dummyone0one
 
 
